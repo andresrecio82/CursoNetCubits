@@ -1,0 +1,15 @@
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\bin\Debug\net6.0\CBTeam.Infraestructure.deps.json
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\bin\Debug\net6.0\CBTeam.Infraestructure.dll
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\bin\Debug\net6.0\CBTeam.Infraestructure.pdb
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\bin\Debug\net6.0\CBTeam.Domain.dll
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\bin\Debug\net6.0\CBTeam.Domain.pdb
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\obj\Debug\net6.0\CBTeam.Infraestructure.csproj.AssemblyReference.cache
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\obj\Debug\net6.0\CBTeam.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\obj\Debug\net6.0\CBTeam.Infraestructure.AssemblyInfoInputs.cache
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\obj\Debug\net6.0\CBTeam.Infraestructure.AssemblyInfo.cs
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\obj\Debug\net6.0\CBTeam.Infraestructure.csproj.CoreCompileInputs.cache
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\obj\Debug\net6.0\CBTeam.Infraestructure.csproj.CopyComplete
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\obj\Debug\net6.0\CBTeam.Infraestructure.dll
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\obj\Debug\net6.0\refint\CBTeam.Infraestructure.dll
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\obj\Debug\net6.0\CBTeam.Infraestructure.pdb
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Infraestructure\obj\Debug\net6.0\ref\CBTeam.Infraestructure.dll

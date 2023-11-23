@@ -1,0 +1,15 @@
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\bin\Debug\net6.0\CBTeam.Application.deps.json
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\bin\Debug\net6.0\CBTeam.Application.dll
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\bin\Debug\net6.0\CBTeam.Application.pdb
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\bin\Debug\net6.0\CBTeam.Domain.dll
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\bin\Debug\net6.0\CBTeam.Domain.pdb
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\obj\Debug\net6.0\CBTeam.Application.csproj.AssemblyReference.cache
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\obj\Debug\net6.0\CBTeam.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\obj\Debug\net6.0\CBTeam.Application.AssemblyInfoInputs.cache
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\obj\Debug\net6.0\CBTeam.Application.AssemblyInfo.cs
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\obj\Debug\net6.0\CBTeam.Application.csproj.CoreCompileInputs.cache
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\obj\Debug\net6.0\CBTeam.Application.csproj.CopyComplete
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\obj\Debug\net6.0\CBTeam.Application.dll
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\obj\Debug\net6.0\refint\CBTeam.Application.dll
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\obj\Debug\net6.0\CBTeam.Application.pdb
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Application\obj\Debug\net6.0\ref\CBTeam.Application.dll

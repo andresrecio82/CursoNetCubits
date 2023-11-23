@@ -1,0 +1,11 @@
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Domain\bin\Debug\net6.0\CBTeam.Domain.deps.json
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Domain\bin\Debug\net6.0\CBTeam.Domain.dll
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Domain\bin\Debug\net6.0\CBTeam.Domain.pdb
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Domain\obj\Debug\net6.0\CBTeam.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Domain\obj\Debug\net6.0\CBTeam.Domain.AssemblyInfoInputs.cache
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Domain\obj\Debug\net6.0\CBTeam.Domain.AssemblyInfo.cs
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Domain\obj\Debug\net6.0\CBTeam.Domain.csproj.CoreCompileInputs.cache
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Domain\obj\Debug\net6.0\CBTeam.Domain.dll
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Domain\obj\Debug\net6.0\refint\CBTeam.Domain.dll
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Domain\obj\Debug\net6.0\CBTeam.Domain.pdb
+D:\CursoNetCubits\ProyectoFinal\CBTeam-API\CBTeam.Domain\obj\Debug\net6.0\ref\CBTeam.Domain.dll
